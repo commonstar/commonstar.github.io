@@ -9,7 +9,11 @@ E-Mail:suaifan12345@163.com
 2016-present Design fault identification and repair theory for multi-duty parallel robots (dynamics, stiffness and vibration)
 
 ### Projects
-National Natural Science Foundation of China [grant numbers: 51175067 and 51875086] 
+1 National Natural Science Foundation of China: Research on the theory, methods and applications of non-destructive repair of mechanical product design defects, 51875086, 2019.2019.01-2022.12
+2 Sichuan Provincial Department of Science and Technology: Key Technology Research in Industrial Application of Parallel Surface Normal Hole Making Equipment.19CXRC0018.2019
+3 AVIC Industrial Aircraft Industry Co., Ltd.: xxx key technology research
+4 2016 Zhongshan Science and Technology Plan Project: Research on Industrial Application Technology Based on Machine Vision (2016B2150)
+5 National Natural Science Foundation of China: Research on the identification model and method of constraint-driven mechanical product design defects, 51175067, 2012-2015.
 
 ### Contributions
 ①	Shuai Fan, Shouwen Fan. An improved approach to the inverse dynamic analysis of parallel manipulators by a given virtual screw [J]. Advanced Robotics, 2018, 32(16): 887-902, (Published) DOI:10.1080/01691864.2018.1505549
