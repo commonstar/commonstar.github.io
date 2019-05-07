@@ -7,7 +7,9 @@ Ph.D. student at School of Mechanical and ELectrical Engineering, University of 
 E-Mail:suaifan12345@163.com
 
 ### Research field
+
 2014-2016 Application of Machine Vision in Bearing Inspection (Detection Algorithm, Calibration)
+
 2016-present Design fault identification and repair theory for multi-duty parallel robots (dynamics, stiffness and vibration)
 
 ### Projects
