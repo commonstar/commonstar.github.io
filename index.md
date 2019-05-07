@@ -1,12 +1,12 @@
 ### Personal Informations
 
-You can use the [editor on GitHub](https://github.com/commonstar/commonstar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Ph.D. student at School of Mechanical and ELectrical Engineering, University of Electronic Science and Technology of China (UESTC) Chengdu, Sichuan, P.R. China 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+E-Mail:suaifan12345@163.com
 
 ### Research field
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Parallel robtos, Dynamics, stiffness, defect idenfication and meachine vision.
 
 ### Hot news
 
