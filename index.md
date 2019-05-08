@@ -6,7 +6,7 @@ Ph.D. student at School of Mechanical and ELectrical Engineering, University of 
 
 E-Mail:suaifan12345@163.com
 
-### Research field
+### Areas of Interest
 
 2014-2016 Application of Machine Vision in Bearing Inspection (Detection Algorithm, Calibration)
 
@@ -23,7 +23,7 @@ E-Mail:suaifan12345@163.com
 
 5 National Natural Science Foundation of China: Research on the identification model and method of constraint-driven mechanical product design defects, 51175067, 2012-2015.
 
-### Contributions
+### Publications
 ①	Shuai Fan, Shouwen Fan. An improved approach to the inverse dynamic analysis of parallel manipulators by a given virtual screw [J]. Advanced Robotics, 2018, 32(16): 887-902, (Published) DOI:10.1080/01691864.2018.1505549
 
 ②	Shuai Fan, Shouwen Fan. Approximate stiffness modelling and stiffness defect identification for a heavy-load parallel manipulator [J]. Robotica, 2018, (Accepted) DOI:10.1017/S0263574718001492
