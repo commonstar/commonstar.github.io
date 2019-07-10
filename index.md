@@ -9,9 +9,9 @@ E-Mail: fansuai12345@163.com or f@std.uestc.edu.cn
 
 ### Areas of Interest
 
-2014-2016 Application of Machine Vision in Bearing Inspection (Detection Algorithm, Calibration)
+2014-2016: Application of Machine Vision in Bearing Inspection (Detection Algorithm, Calibration)
 
-2016-present parallel robots as meachine tool (dynamics, stiffness and vibration), Lower Extremity Exoskeletons (dynamics, Variable stiffness).
+2016-present: Parallel Robots as meachine tools (dynamics, stiffness and vibration), Lower Extremity Exoskeletons (dynamics, Variable stiffness).
 
 ### Projects
 1 National Natural Science Foundation of China: Research on the theory, methods and applications of non-destructive repair of mechanical product design defects, 51875086, 2019.2019.01-2022.12
