@@ -5,7 +5,7 @@
 Ph.D. student at School of Mechanical and ELectrical Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu, Sichuan, P.R. China 
 ### Contact
 
-E-Mail: suaifan12345@163.com or f@std.uestc.edu.cn
+E-Mail: fansuai12345@163.com or f@std.uestc.edu.cn
 
 ### Areas of Interest
 
