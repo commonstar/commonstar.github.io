@@ -11,7 +11,7 @@ E-Mail: fansuai12345@163.com or f@std.uestc.edu.cn
 
 2014-2016 Application of Machine Vision in Bearing Inspection (Detection Algorithm, Calibration)
 
-2016-present Design fault identification and repair theory for multi-duty parallel robots (dynamics, stiffness and vibration)
+2016-present parallel robots as meachine tool (dynamics, stiffness and vibration), Lower Extremity Exoskeletons (dynamics, Variable stiffness).
 
 ### Projects
 1 National Natural Science Foundation of China: Research on the theory, methods and applications of non-destructive repair of mechanical product design defects, 51875086, 2019.2019.01-2022.12
