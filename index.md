@@ -25,19 +25,19 @@ E-Mail: suaifan12345@163.com or f@std.uestc.edu.cn
 5 National Natural Science Foundation of China: Research on the identification model and method of constraint-driven mechanical product design defects, 51175067, 2012-2015.
 
 ### Publications
-①	Shuai Fan, Shouwen Fan. An improved approach to the inverse dynamic analysis of parallel manipulators by a given virtual screw [J]. Advanced Robotics, 2018, 32(16): 887-902, (Published) DOI:10.1080/01691864.2018.1505549
+①	Shuai Fan, Shouwen Fan, Weibin Lan, Guangkui Song. A new approach to stiffness enhancement of heavy-load parallel manipulators from the direction of component selection [J]. Robotics and computer-Integrated manufacturing, (Online:https://doi.org/10.1016/j.rcim.2019.101834)
 
-②	Shuai Fan, Shouwen Fan. Approximate stiffness modelling and stiffness defect identification for a heavy-load parallel manipulator [J]. Robotica, 2018, (Accepted) DOI:10.1017/S0263574718001492
+②	Shuai Fan, Shouwen Fan, Weibin Lan, et al. A defect identification approach of operations for the driving element of multi-duty parallel manipulators [C]. IEEE Robotic and Automation (ICRA), 2019, (Accepted).
 
-③	Shuai Fan, Shouwen Fan, Weibin Lan, et al. A defect identification approach of operations for the driving element of multi-duty parallel manipulators [C]. IEEE Robotic and Automation (ICRA), 2019, (Accepted).
+③	Shuai Fan, Shouwen Fan. Approximate stiffness modelling and stiffness defect identification for a heavy-load parallel manipulator [J]. Robotica, 2018, (Accepted) DOI:10.1017/S0263574718001492.
 
-④	Shuai Fan, Shouwen Fan, Xin Zhang. A hybrid optimization method of dimensions for the Tricept parallel robot [C]. Advances in Mechanical Design - Proceedings of the 2017 International Conference on Mechanical Design, Beijing, 2018, 1343-1364 (Published))
+④	Shuai Fan, Shouwen Fan. An improved approach to the inverse dynamic analysis of parallel manipulators by a given virtual screw [J]. Advanced Robotics, 2018, 32(16): 887-902, (Published) DOI:10.1080/01691864.2018.1505549
 
-⑤	Shuai Fan, Shouwen Fan, Weibin Lan, Guangkui Song. A new approach to stiffness enhancement of heavy-load parallel manipulators from the direction of component selection [J]. Robotics and computer-Integrated manufacturing, (Under Review).
+⑤	Shuai Fan, Shouwen Fan, Xin Zhang. A hybrid optimization method of dimensions for the Tricept parallel robot [C]. Advances in Mechanical Design - Proceedings of the 2017 International Conference on Mechanical Design, Beijing, 2018, 1343-1364 (Published)).
 
 ⑥	Shuai Fan, Shouwen Fan, Weibin Lan, Guangkui Song. The difference between the ideal and combined spherical joints and its effects on parallel manipulators [J]. Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science, (Under Review). 
 
-⑦	Shuai Fan, Shouwen Fan, Xin Zhang, etc. Vibration modelling and vibration model defect identification for a drilling parallel robot [J]. Journal of Sound and Vibration, (Under Review).
+⑦	Shuai Fan, Shouwen Fan, Xin Zhang, etc. Vibration modelling and vibration model defect identification for a drilling parallel robot [J]. Meachnism and machine theroy, (Under Review).
 
 ⑧	范守文, 范帅, 赵元贵, 等. 面向并联钻床的自动钻孔方法 [P].中国,发明专利, 201710730949.0, 2017.
 
